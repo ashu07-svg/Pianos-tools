@@ -1,0 +1,7 @@
+{
+  "name": "Harmoniq - Interactive Music Theory & Visualization Studio",
+  "description": "Comprehensive music theory visualizer with interactive piano, guitar fretboard, circle of fifths, staff notation, multi-turn Gemini AI tutor, and high-resolution theory image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
